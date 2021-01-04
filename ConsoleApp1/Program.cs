@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Sorting
+﻿namespace ConsoleApp1
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
